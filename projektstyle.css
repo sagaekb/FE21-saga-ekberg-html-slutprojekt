@@ -55,12 +55,13 @@ main{
     grid-auto-flow: row;
     grid-gap: 15px;
     justify-items: center;
-    margin: 100px;
+    margin: auto;
     color: #055a8c;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 img {
   width: 100%;
+  max-width: 600px;
 }
 .projekt{
     padding: 0.5rem 0rem;
